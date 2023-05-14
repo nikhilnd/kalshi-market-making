@@ -44,7 +44,7 @@ Currently, there does not exist a backtesting platform for trading on Kalshi. Th
 
 <img src="images/simulation.png"  width="60%" height="60%">
 
-It's important to note that the simulator does not consider the impact of bot orders on other traders. Additionally, it does not simulate latency between the trading system and the exchange. However, the simulator still served as a valuable tool for experimenting with different strategies and parameters.
+It's important to note that the simulator does not consider the impact of bot orders on other traders. Additionally, it does not simulate latency between the trading system and the exchange. Despite these limitations, the simulator still served as a valuable tool for experimenting with different strategies and parameters.
 
 ## Results
 
