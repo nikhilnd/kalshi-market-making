@@ -9,7 +9,7 @@ This repository contains all of the code and data for our Kalshi Market Making p
 
 ## Project Overview
 
-The goal of this project was to develop and implement a strategy for market making event contracts on [Kalshi](https://kalshi.com). Event contracts are swaps whose payout is dictated by discrete event occurrences or data releases. This allows traders to make predictions about the likelihood of certain events occuring. In particular, we sought to trade on the S&P 500 daily close price market. 
+The goal of this project was to develop and implement a strategy for market making event contracts on [Kalshi](https://kalshi.com). Event contracts are swaps whose payout is dictated by discrete event occurrences or data releases. As such, they allow traders to make predictions about the likelihood of certain events occuring. For our project, we sought to trade on the S&P 500 daily close price market. 
 
 <img src="images/kalshi.png"  width="50%" height="50%">
 
