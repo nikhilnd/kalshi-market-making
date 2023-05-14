@@ -23,7 +23,7 @@ In order to trade autonomously, we built an end-to-end trading system using the 
 
 An overview of the components and their interactions is summarized in the image below. 
 
-<img src="images/architecture.png"  width="60%" height="60%">
+<img src="images/architecture.png"  width="70%" height="70%">
 
 The code for the trading system can be found in the [market_bot](market_bot) directory. The system was deployed on an AWS EC2 instance to run continuously during the trading day. 
 
