@@ -13,6 +13,8 @@ The goal of this project was to develop and implement a strategy for market maki
 
 <img src="images/kalshi.png"  width="50%" height="50%">
 
+Note: After the completion of this project, the bracket width of S&P 500 markets was changed from 50 points to 25 points.
+
 ## Trading System
 
 In order to trade autonomously, we built an end-to-end trading system using the Kalshi Websockets API, Kalshi Trade API, and the TD Ameritrade API (for live S&P 500 prices). The main components of the system were: 
